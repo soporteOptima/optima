@@ -2,7 +2,7 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <title>Sistema de Prospecci&oacute;n</title>
+        <title>Sistema de Prospecci&oacute;n - grupo optima</title>
           <?php $this->load->view('globales/estilos'); setlocale(LC_MONETARY, 'en_US');?>
           <?php
 foreach($css_files as $file): ?>
